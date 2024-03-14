@@ -30,12 +30,10 @@ training_file_id = client.files.create(
   purpose="fine-tune"
 )
 ```
+Test your model using prompts:
 
+![OpenAI Demo](https://github.com/Pauullamm/OpenAI_Pill_Checker/assets/109431478/b0fd22c1-617f-4e2d-860f-a0f342c8a67e)
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
 
 ## License
 
