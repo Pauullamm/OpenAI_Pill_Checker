@@ -4,7 +4,7 @@
 
 Problem:
 
-There is currently no publicly available pill-identifying software which identifies tablets/capsules based on their appearance. Furthermore, there are no publicly available and up-to-date images of medicines that may be used to train image models. 
+There is currently no publicly available pill-identifying software in the UK which identifies tablets/capsules and their manufacturers based on their appearance. Furthermore, there are no publicly available and up-to-date images of medicines that may be used to train image models. 
 This project is a Jupyter notebook which handles text descriptions of tablets and capsules as an alternative.
 
 ## Usage
